@@ -1,0 +1,12 @@
+streamlit
+graphviz
+google-generativeai
+python-dotenv
+pathlib
+ipykernel
+networkx
+seaborn
+plotly
+nbformat>=4.2.0
+diagrams
+pygraphviz
